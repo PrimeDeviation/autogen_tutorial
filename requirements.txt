@@ -1,4 +1,4 @@
-llama-index==0.8.52
+llama-index==0.10.13
 openai==0.28.1
 pyautogen==0.1.14
 docker==6.1.3
